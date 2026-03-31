@@ -20,5 +20,7 @@ void input()
             cout << "\nMaksimum panjang array yang dapat dimasukkan adalah 20" << endl;
         }
     }
+    cout << endl;
+    
 }
 
